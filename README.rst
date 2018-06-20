@@ -16,7 +16,7 @@ Installation
 ============
 Install with pip via:
 ``pip install git+https://github.com/saeidadli/Transit-Analyst``
-If you want to use this without pip in an ArcGIS toolbox you can download ``arcgdfconvertor`` folder and keep that with your toolbox.
+If you want to use this without pip in an ArcGIS toolbox you can download ``transitanalyst`` folder and keep that with your toolbox.
 
 Usage
 =====
